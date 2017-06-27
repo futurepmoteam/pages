@@ -1,0 +1,74 @@
+*
+{
+	font-family: Rubik;
+}
+
+body
+{
+	background: url('http://subtlepatterns2015.subtlepatterns.netdna-cdn.com/patterns/symphony.png') !important;
+}
+
+.flat
+{
+	border-radius: 0% !important;
+	border: none !important;
+}
+
+.bg-fcpmo
+{
+	background: rgba(112, 32, 130, 1) !important;
+}
+
+.white
+{
+	color: white !important;
+}
+
+.mt-45
+{
+	margin-top: 45px;
+}
+
+.mt-75
+{
+	margin-top: 75px;
+}
+
+.wd-100
+{
+	width: 100% !important;
+	height: 312.34px !important;
+}
+
+.pcmo-button
+{
+	padding: 5px !important;
+	margin: 10px !important;
+	font-family: Rubik;
+	height: 20px;
+}
+
+#pmoCar
+{
+	border: solid 5px purple;
+}
+
+.pmo-color
+{
+	color: rgba(112, 32, 130, 1) !important;
+}
+
+.pmo-well
+{
+	text-decoration: none;
+}
+
+.pmo-well:hover
+{
+	cursor: pointer;
+}
+
+.no-dec
+{
+	text-decoration: none !important;
+}
